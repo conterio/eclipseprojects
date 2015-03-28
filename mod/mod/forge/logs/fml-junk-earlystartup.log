@@ -1,0 +1,433 @@
+[12:28:15] [main/INFO] [GradleStart]: Extra: []
+[12:33:18] [main/INFO] [GradleStart]: Extra: []
+[13:20:48] [main/INFO] [GradleStart]: assetsDir: ../caches/minecraft/assets
+[13:20:48] [main/INFO] [GradleStart]: Extra: []
+[13:22:16] [main/INFO] [GradleStart]: assetsDir: caches/minecraft/assets
+[13:22:16] [main/INFO] [GradleStart]: Extra: []
+[13:22:16] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[13:22:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:22:16] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:22:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[13:22:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:24:09] [main/INFO] [GradleStart]: assetsDir: caches/minecraft/assets
+[13:24:09] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[13:24:09] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[13:24:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:24:09] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:24:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[13:24:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:35:21] [main/INFO] [GradleStart]: assetsDir: caches/minecraft/assets
+[13:35:21] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[13:36:35] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[13:36:35] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[13:36:35] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[13:36:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:36:35] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:36:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[13:36:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:43:28] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[14:43:28] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[14:43:28] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[14:43:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:43:28] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:43:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[14:43:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:51:44] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[14:51:44] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[14:51:44] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[14:51:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:51:44] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:51:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[14:51:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:54:09] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[14:54:09] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[14:54:09] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[14:54:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:54:09] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:54:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[14:54:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:01:26] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:01:26] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:01:26] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:01:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:01:26] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:01:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:01:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:07:04] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:07:04] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:07:04] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:07:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:07:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:07:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:07:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:12:04] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:12:04] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:12:04] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:12:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:12:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:12:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:12:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:15:00] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:15:00] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:15:00] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:15:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:15:00] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:15:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:15:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:17:46] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:17:46] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:17:46] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:17:46] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:17:46] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:17:46] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:17:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:21:41] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:21:41] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:21:41] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:21:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:21:41] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:21:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:21:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:24:03] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:24:03] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:24:03] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:24:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:24:03] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:24:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:24:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:25:09] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:25:09] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:25:09] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:25:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:25:09] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:25:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:25:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:26:53] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:26:53] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:26:53] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:26:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:26:53] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:26:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:26:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:28:57] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:28:57] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:28:57] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:28:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:28:57] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:28:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:28:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:30:14] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:30:14] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:30:14] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:30:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:30:14] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:30:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:30:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:31:28] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:31:28] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:31:28] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:31:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:31:28] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:31:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:31:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:33:17] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:33:17] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:33:18] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:33:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:33:18] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:33:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:33:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:33:44] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:33:44] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:33:44] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:33:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:33:44] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:33:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:33:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:34:38] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:34:38] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:34:38] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:34:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:34:38] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:34:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:34:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:35:35] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:35:35] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:35:35] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:35:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:35:35] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:35:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:35:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:36:51] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:36:51] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:36:51] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:36:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:36:51] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:36:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:36:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:38:43] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:38:43] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:38:43] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:38:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:38:43] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:38:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:38:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:39:37] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:39:37] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:39:37] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:39:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:39:37] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:39:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:39:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:42:44] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:42:44] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:42:44] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:42:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:42:44] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:42:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:42:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:44:41] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:44:41] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:44:41] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:44:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:44:41] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:44:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:44:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:54:12] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:54:12] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:54:12] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:54:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:54:12] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:54:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:54:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:55:31] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:55:31] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:55:31] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:55:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:55:31] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:55:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:55:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:56:08] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:56:08] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:56:08] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:56:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:56:08] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:56:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:56:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:56:39] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:56:39] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:56:39] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:56:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:56:39] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:56:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:56:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:57:09] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:57:09] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:57:09] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:57:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:57:09] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:57:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:57:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:57:42] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:57:42] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:57:42] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:57:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:57:42] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:57:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:57:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:58:47] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:58:47] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:58:47] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:58:47] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:58:47] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:58:47] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:58:47] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:59:51] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[15:59:51] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[15:59:51] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[15:59:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:59:51] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:59:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[15:59:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:00:25] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:00:25] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:00:25] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:00:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:00:25] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:00:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:00:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:01:01] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:01:01] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:01:01] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:01:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:01:01] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:01:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:01:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:02:15] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:02:15] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:02:15] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:02:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:02:15] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:02:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:02:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:03:50] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:03:50] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:03:50] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:03:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:03:50] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:03:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:03:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:04:31] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:04:31] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:04:31] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:04:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:04:31] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:04:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:04:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:05:38] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:05:38] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:05:38] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:05:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:05:38] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:05:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:05:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:06:48] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:06:48] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:06:48] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:06:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:06:48] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:06:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:06:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:07:45] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:07:45] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:07:45] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:07:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:07:45] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:07:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:07:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:09:57] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:09:57] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:09:57] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:09:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:09:57] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:09:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:09:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:10:54] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:10:54] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:10:54] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:10:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:10:54] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:10:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:10:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:11:49] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:11:49] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:11:49] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:11:49] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:11:49] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:11:49] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:11:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:13:03] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:13:03] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:13:03] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:13:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:13:03] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:13:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:13:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:14:45] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:14:45] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:14:45] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:14:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:14:45] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:14:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:14:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:17:20] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:17:20] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:17:20] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:17:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:17:20] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:17:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:17:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:20:02] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:20:02] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:20:02] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:20:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:20:02] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:20:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:20:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:20:40] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:20:40] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:20:40] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:20:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:20:40] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:20:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:20:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:22:11] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:22:11] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:22:11] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:22:11] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:22:11] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:22:11] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:22:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:24:14] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:24:14] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:24:14] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:24:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:24:14] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:24:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:24:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:30:33] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:30:33] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:30:33] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:30:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:30:33] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:30:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:30:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:33:43] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:33:43] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:33:43] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:33:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:33:43] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:33:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:33:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:42:19] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:42:19] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:42:19] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:42:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:42:19] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:42:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:42:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:43:18] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:43:18] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:43:18] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:43:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:43:18] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:43:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:43:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:43:54] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:43:54] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:43:54] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:43:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:43:54] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:43:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:43:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:49:54] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:49:54] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:49:54] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:49:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:49:54] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:49:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:49:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:51:36] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:51:36] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:51:36] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:51:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:51:36] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:51:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:51:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:53:20] [main/INFO] [GradleStart]: assetsDir: Minecraft/caches/minecraft/assets
+[16:53:20] [main/INFO] [GradleStart]: Extra: [-Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8]
+[16:53:20] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, Minecraft/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -Djava.library.path=caches/minecraft/net/minecraft/minecraft_natives/1.8, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:53:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:53:20] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:53:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:53:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker

@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "examplemod:blocks/candybush_stage_1"
+    }
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Minecraft/src/main/resources/assets/examplemod/textures/entity/arrow1.png&apos; to &apos;candyfireball.png&apos;" description="Rename resource &apos;arrow1.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/assets/examplemod/textures/entity/arrow1.png" name="candyfireball.png" stamp="1427576759118" updateReferences="true"/>
+</session>
