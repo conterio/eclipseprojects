@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+  <link href='http://fonts.googleapis.com/css?family=Press+Start+2P' rel='stylesheet' type='text/css'>
+<style>
+body {
+background-image:url("bg.png");
+margin:0 0 0 0;
+}
+#target {
+overflow:hidden;  
+margin:-10 -10 -10 -10;
+
+}
+</style>
+<meta name="viewport"
+content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+<script src="simply.js"></script>
+    <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Press+Start+2P::latin' ] }
+  };
+</script>
+
+<script>
+
+//globals
+var index = 0;
+var lastspot = 0;
+var enemyMove = [];
+//blocksize sets whole game size
+var blockSize = 18;      //<------------------------------------Everything is based off this number
+var gameWidth = 854;
+var gameHeight = 490;
+var playerSize = blockSize;
+
+function start(){
+	
+	var url = location.href;
+	if(url.indexOf("off")>1){
+		
+	}else{
+ 		Audio.playAudio("pshycocut.mp3");
+	}
+	//getViewportSize
+    var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+    var h = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+   	w = Math.floor(w/blockSize) * blockSize;
+	h = Math.floor(h/blockSize) * blockSize;
+		//width 61  height 35  2135 total
+  	sjs.open("target",w,h);
+		
+  	gameWidth = sjs.getWidth();
+ 	gameHeight = sjs.getHeight();
+ 	var buttonSize = blockSize * 3;
+ 	var buttonSizet2 = buttonSize *2;
+ 	var buttonSizet3 = buttonSize *3;
+
+	  //local vars
+	  var x = blockSize*3;
+	  var y = 0;
+	  var rows = 0;
+
+	  
+	  while(x<gameWidth){
+		  var amount = blockSize*2;
+		  var random = Math.floor((Math.random() * 4) + 1);
+		  if(random == 1)
+			  amount = blockSize*2;
+		  else if(random==2)
+			  amount = blockSize*3;
+		  else if(random==3)
+			  amount =blockSize*4;
+		  else
+			  amount = blockSize*5;
+		  
+		  
+		  var image = new sjs.Image("water.jpeg",blockSize,blockSize).offset(x,y);
+		  image.type="block";
+		  x= x + blockSize;
+		  if(Math.random() > .2){
+			  x=x+amount;
+		  }
+		  
+		  if(x>=gameWidth){
+			  rows = rows+1;
+			  y=y+blockSize;
+			  x=0;
+		  }
+		  if(rows>=gameHeight/blockSize){
+			  break;
+		  }
+		  
+	  }//end while loop
+	  
+	  //other vars
+	  var player = new sjs.Image("player.png",playerSize,playerSize);
+	  player.type = "player";
+	  player.friction = 0;
+	  
+	  var home = new sjs.Image("home.jpeg",blockSize*3,blockSize*3).bottom().right();
+	  home.type="home";
+	  
+	  var run_txt = new sjs.Text("RUN!",sjs.getHeight()*sjs.getWidth()/5000,"red","'Press Start 2P'").center();
+	  var toggles = 0;
+	  setInterval(function(){
+		  if(toggles == 0){
+			  run_txt.setText("");
+			  toggles=1;
+		  }else{
+			  run_txt.setText("RUN!");
+			  toggles=0;
+		  }
+	  },500);
+	  
+	  
+	  var numx=0;
+	  var numy=0;
+	  sjs.onHit("player","block",function(p,b){
+		if(lastspot == 0){
+			numx=0;
+			numy=blockSize;
+		}
+		else if(lastspot ==1){
+			numx=-blockSize;
+			numy=0;
+		}
+		else if(lastspot ==2){
+			numx=0
+			numy=-blockSize;
+		}
+		else{
+			numx=blockSize;
+			numy=0;
+		}
+		  p.stop();
+		  p.moveTo(p.x+numx,p.y+numy);
+		  p.stop();
+		  enemyMove.pop();
+	  });
+	  
+
+	  //win and lose stages
+	  sjs.onHit("player","enemy",function(){
+			if(url.indexOf("off")>1){
+				
+			}else{
+		  		Audio.pauseAudio();
+			}
+		  window.location.href = "gameover.html";
+		  
+	  });
+	  sjs.onHit("player","home",function(){
+			if(url.indexOf("off")>1){
+				
+			}else{
+		  		Audio.pauseAudio();
+			}
+		  window.location.href="win.html";
+	  });
+	  
+
+	  
+
+	  var dpad = new sjs.Image("dpad.png",buttonSizet3,buttonSizet3).bottom().left();
+	  
+	  var down_btn = new sjs.Image("invis.png",buttonSize,buttonSize).bottom().left().offset(buttonSize,0);
+	  var up_btn = new sjs.Image("invis.png",buttonSize,buttonSize).bottom().left().offset(buttonSize,-buttonSizet2);
+	  var right_btn = new sjs.Image("invis.png",buttonSize,buttonSize).bottom().left().offset(buttonSizet2,-buttonSize);
+	  var left_btn = new sjs.Image("invis.png",buttonSize,buttonSize).bottom().left().offset(0,-buttonSize);
+	  
+
+	  
+	  
+	  
+	  var hold = false;
+	  
+	  document.ontouchend = function(e){
+		hold = false;
+		e.preventDefault();
+		player.stop();
+	  }
+// 	  document.ontouchmove = function(e){
+// 		  e.preventDefault();
+// 		  whichButton();
+// 	  }
+	  document.ontouchstart = function(e){
+		hold = true;
+		e.preventDefault();
+		whichButton();
+	  }
+	  function whichButton(){
+			$howFarFromLeft = window.innerWidth - event.targetTouches[0].pageX;
+	 		$howFarFromBottom = window.innerHeight - event.targetTouches[0].pageY;
+	 		$ttX = event.targetTouches[0].pageX;
+	 		$ttY = event.targetTouches[0].pageY;
+	 		mouseX = $ttX;
+	 	    mouseY = $ttY;
+
+	  		//left
+	  		if(mouseX<buttonSize+1 && mouseY< sjs.getHeight() -buttonSize && mouseY > sjs.getHeight() -buttonSizet2){
+	  		  lastspot=3;
+			  player.moveTo(player.x-blockSize,player.y);
+			  player.setImage("player_left.png");
+			  player.stop();
+			  enemyMove.push(3);
+	  		}
+	  		//right
+	  		if(mouseX<buttonSizet3+1 && mouseX > buttonSizet2 && mouseY< sjs.getHeight() -buttonSize && mouseY > sjs.getHeight() -buttonSizet2){
+	  		  lastspot = 1;
+			  player.moveTo(player.x+blockSize,player.y);
+			  player.setImage("player_right.png");
+			  player.stop();
+			  enemyMove.push(1);
+	  		}
+	  		//up
+	  		if(mouseX<buttonSizet2 +1 && mouseX > buttonSize && mouseY > sjs.getHeight() - buttonSizet3 && mouseY < sjs.getHeight() - buttonSizet2){
+	  		  lastspot=0;
+			  player.moveTo(player.x,player.y-blockSize);
+			  player.setImage("player.png");
+			  player.stop();
+			  enemyMove.push(0);
+	  		}
+	  		//down
+	  		if(mouseX<buttonSizet2 +1 && mouseX > buttonSize && mouseY > sjs.getHeight() - buttonSize+1){
+	  		  lastspot=2;
+			  player.moveTo(player.x,player.y+blockSize);
+			  player.setImage("player_down.png");
+			  player.stop();
+			  enemyMove.push(2);
+	  		}
+	  	
+	  	
+	  }
+
+	  
+	  setTimeout(function(){
+		  enemy = new sjs.Image("enemy.jpeg",blockSize,blockSize);
+		  enemy.type="enemy";
+			if(url.indexOf("off")>1){
+				
+			}else{
+		  		Audio.playAudio("ffcut.mp3");
+			}
+		  run_txt.destroy();
+
+		  setInterval(function(){
+		  if(enemyMove[index]==0){
+			  enemy.moveTo(enemy.x,enemy.y-playerSize);
+
+		  }
+		  if(enemyMove[index]==1){
+			  enemy.moveTo(enemy.x+playerSize,enemy.y);
+
+		  }
+		  if(enemyMove[index]==2){
+			  enemy.moveTo(enemy.x,enemy.y+playerSize);
+
+		  }
+		  if(enemyMove[index]==3){
+			  enemy.moveTo(enemy.x-playerSize,enemy.y);
+
+		  }
+		  index++;
+		  },250);
+  
+	  },10000);//<-------------when the enemy starts to chase
+	  
+	
+	
+
+
+
+
+	 
+
+
+
+		  
+
+		  
+
+	  
+	  
+	 
+	  
+	  
+	  
+	  
+ 	  sjs.keyDown(RIGHT_KEY, function(){ 
+ 		  //player.pushRight();
+		  lastspot = 1;
+		  player.moveTo(player.x+playerSize,player.y);
+		  player.setImage("player_right.png");
+		  player.stop();
+		  enemyMove.push(1);
+ 	  });
+ 	  sjs.keyDown(LEFT_KEY, function(){ 
+ 		  //player.pushLeft();
+		  lastspot=3;
+		  player.moveTo(player.x-playerSize,player.y);
+		  player.setImage("player_left.png");
+		  player.stop();
+		  enemyMove.push(3);
+ 	  });
+ 	  sjs.keyDown(DOWN_KEY, function(){ 
+ 		  //player.pushDown();
+		  lastspot=2;
+		  player.moveTo(player.x,player.y+playerSize);
+		  player.setImage("player_down.png");
+		  player.stop();
+		  enemyMove.push(2);
+ 	  });
+ 	  sjs.keyDown(UP_KEY, function(){ 
+ 		  //player.pushUp();
+		  lastspot=0;
+		  player.moveTo(player.x,player.y-playerSize);
+		  player.setImage("player.png");
+		  player.stop();
+		  enemyMove.push(0);
+ 	  });
+
+
+
+
+//none of your code should go below this.
+}
+</script>
+
+
+</head>
+
+<body onload="start();">
+<div id="target"></div>
+
+</body>
+</html>

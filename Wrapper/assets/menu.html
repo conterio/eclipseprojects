@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+<head>
+  <link href='http://fonts.googleapis.com/css?family=Press+Start+2P' rel='stylesheet' type='text/css'>
+  <style>
+  body {
+    margin:0 0 0 0;
+  }
+  #target {
+    overflow:hidden; 
+    margin:-10 -10 -10 -10;
+  }
+  </style>
+  <meta name="viewport"
+	content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+  <script src="simply.js"></script>
+    <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Press+Start+2P::latin' ] }
+  };
+</script>
+
+  
+  
+  <script>
+  function start(){
+	  //code goes below here
+	  sjs.open("target",0,0);
+	  var music = 1;
+	  var background = new sjs.Image("menubackground.jpeg",sjs.getWidth(),sjs.getHeight());
+	  
+	  //txt, callback, size, color, font
+	  var play_btn = new sjs.Button("Play",function(){
+		  if(music == 1){
+		  	  window.location.href="myApp.html";
+		  }else{
+			  window.location.href="myApp.html?off";
+		  }
+		  
+	  },(sjs.getHeight()*sjs.getWidth())/30000,"red","'Press Start 2P'").offset(sjs.getWidth()/1.3,sjs.getHeight()/3.3);
+	  
+	  
+	  var sound_btn = new sjs.Button("Sound On",function(){
+		  if(music == 1){
+		  	sound_btn.setText("Sound Off");
+		  	music = 0;
+		  }
+		  else{
+			sound_btn.setText("Sound On");
+			music = 1;
+		  }
+	  },(sjs.getHeight()*sjs.getWidth())/50000,"red","'Press Start 2P'").offset(sjs.getWidth()/1.3,sjs.getHeight()/2.3);
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	//no code past this 
+	}
+  </script>
+
+</head>
+<body onload="start();">
+<div id="target"></div>
+</body>
+</html>

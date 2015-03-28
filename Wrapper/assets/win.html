@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<link href='http://fonts.googleapis.com/css?family=Press+Start+2P' rel='stylesheet' type='text/css'>
+  <style>
+  body {
+    margin:0 0 0 0;
+  }
+  #target {
+    overflow:hidden; 
+    margin:-10 -10 -10 -10;
+  }
+  </style>
+  <meta name="viewport"
+	content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+  <script src="simply.js"></script>
+    <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Press+Start+2P::latin' ] }
+  };
+</script>
+  
+  
+  <script>
+  function start(){
+	  //code goes below here
+	  sjs.open("target",0,0);
+	  
+	  var win_background = new sjs.Image("winbackground.jpeg",sjs.getWidth(),sjs.getHeight());
+	  
+	  // function(txt, size, color, font){
+	  var win_txt = new sjs.Text("You Win",sjs.getHeight()*sjs.getWidth()/30000,"red","'Press Start 2P'").centerH();
+	  
+	  var playAgain = new sjs.Button("Play Again",function(){
+		  window.location.href="menu.html";		  
+	  },(sjs.getHeight()*sjs.getWidth())/30000,"red","'Press Start 2P'").center().bottom();
+	  
+	  
+
+	  
+	  
+	  
+	  
+	  
+	  
+	//no code past this 
+	}
+  </script>
+
+</head>
+<body onload="start();">
+<div id="target"></div>
+</body>
+</html>
