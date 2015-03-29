@@ -15,7 +15,6 @@ public class Candy_Cow extends EntityCow{
 
 	}
 
-	
 	@Override
 	protected void dropFewItems(boolean par1, int par2) {
 	 dropItem(GameRegistry.findItem(ExampleMod.MODID, "sourgummyworm"), 1);

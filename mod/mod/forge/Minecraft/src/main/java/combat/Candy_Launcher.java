@@ -35,12 +35,12 @@ public class Candy_Launcher extends ItemBow {
 
         boolean flag = playerIn.capabilities.isCreativeMode || EnchantmentHelper.getEnchantmentLevel(Enchantment.infinity.effectId, stack) > 0;
 
-        if (flag || playerIn.inventory.hasItem(Items.arrow))
+        if (flag || playerIn.inventory.hasItem(GameRegistry.findItem("examplemod", "redhotcandy")))
         {
       
 
             Entity_Candy_Bullet entityarrow = new Entity_Candy_Bullet(worldIn, playerIn);
-
+            playerIn.inventory.consumeInventoryItem(GameRegistry.findItem("examplemod", "redhotcandy"));
         
 
             if (!worldIn.isRemote)
@@ -56,7 +56,7 @@ public class Candy_Launcher extends ItemBow {
 	  net.minecraftforge.event.entity.player.ArrowNockEvent event = new net.minecraftforge.event.entity.player.ArrowNockEvent(player, itemStackIn);
         if (net.minecraftforge.common.MinecraftForge.EVENT_BUS.post(event)) return event.result;
 
-        if (player.capabilities.isCreativeMode || player.inventory.hasItem(Items.arrow))
+        if (player.capabilities.isCreativeMode || player.inventory.hasItem(GameRegistry.findItem("examplemod", "redhotcandy")))
         {
             player.setItemInUse(itemStackIn, this.getMaxItemUseDuration(itemStackIn));
         }

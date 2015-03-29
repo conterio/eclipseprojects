@@ -1,0 +1,7 @@
+package items;
+
+import net.minecraft.item.ItemFood;
+
+public class Red_Hot extends ItemFood {
+
+}

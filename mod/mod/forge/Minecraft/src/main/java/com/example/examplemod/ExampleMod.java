@@ -74,6 +74,7 @@ public class ExampleMod
     	    	renderItem.getItemModelMesher().register(new Lollipop(2,false), 0, new ModelResourceLocation("examplemod:lollipop", "inventory"));
     	    	renderItem.getItemModelMesher().register(new Sour_Gummy_Worm(1,false), 0, new ModelResourceLocation("examplemod:sourgummyworm", "inventory"));
     	    	renderItem.getItemModelMesher().register(new Candy_Launcher(), 0, new ModelResourceLocation("examplemod:candylauncher", "inventory"));
+    	    	renderItem.getItemModelMesher().register(new Red_Hot_Candy(-5,false), 0, new ModelResourceLocation("examplemod:redhotcandy", "inventory"));
 
     	    	
     	    	//Create and render blocks****************************************************************************************************
@@ -102,15 +103,14 @@ public class ExampleMod
 
     	    	
     	    	//Recipes***********************************************************************************************************
-    	    	//note  if you want a block to have any kind of shaped or shapeless recipe you must make it a BlockCompressed block.
-    	    	//When you want to find a block that you made use gameregistry.finditem not find block 
-    	    	//GameRegistry.findBlock doesn't work in 1.8, use Block.getBlockById().  Minecraft blocks end at 197
     	    	GameRegistry.addShapedRecipe(new ItemStack(GameRegistry.findItem("examplemod", "gummyworm"),9), "#",'#',GameRegistry.findItem("examplemod", "candybrick"));
     	    	GameRegistry.addShapedRecipe(new ItemStack(GameRegistry.findItem("examplemod", "candybrick")), "###", "###", "###", '#',GameRegistry.findItem("examplemod", "gummyworm"));
     	    	GameRegistry.addShapedRecipe(new ItemStack(GameRegistry.findItem("examplemod", "peppermintsword")), "X","X","#",'X',GameRegistry.findItem("examplemod", "lollipop"),'#',Items.stick);
     	    	//tool recipes
-    	    	
-    	    	
+    	    	GameRegistry.addShapedRecipe(new ItemStack(GameRegistry.findItem("examplemod", "candyhoe"))," XX"," # "," # ",'X',GameRegistry.findItem("examplemod", "chocolate"),'#',Items.stick);
+    	    	GameRegistry.addShapedRecipe(new ItemStack(GameRegistry.findItem("examplemod", "candypickaxe")),"XXX"," # "," # ",'X',GameRegistry.findItem("examplemod", "chocolate"),'#',Items.stick);
+    	    	GameRegistry.addShapedRecipe(new ItemStack(GameRegistry.findItem("examplemod", "candyshovel")),"X","#","#",'X',GameRegistry.findItem("examplemod", "chocolate"),'#',Items.stick);
+    	    	GameRegistry.addShapedRecipe(new ItemStack(GameRegistry.findItem("examplemod", "candyaxe")),"XX ","X# "," # ",'X',GameRegistry.findItem("examplemod", "chocolate"),'#',Items.stick);
     	    	//armor recipes
     	    	GameRegistry.addShapedRecipe(new ItemStack(GameRegistry.findItem("examplemod", "candyhelmet")), "XXX","X X", 'X',GameRegistry.findItem("examplemod","chocolate"));
     	    	GameRegistry.addShapedRecipe(new ItemStack(GameRegistry.findItem("examplemod", "candychestplate")), "X X","XXX","XXX", 'X',GameRegistry.findItem("examplemod","chocolate"));
@@ -149,8 +149,8 @@ public class ExampleMod
     			for (int i = 0; i < biomes.length; i++) {
     			  biomes[i] = it.next();
     			}
-    			EntityRegistry.addSpawn(Candy_Zombie.class, 50, 1, 3, EnumCreatureType.MONSTER, biomes);
-    			EntityRegistry.addSpawn(Candy_Cow.class, 50, 1, 10, EnumCreatureType.CREATURE, biomes);
+    			EntityRegistry.addSpawn(Candy_Zombie.class, 30, 1, 3, EnumCreatureType.MONSTER, biomes);
+    			EntityRegistry.addSpawn(Candy_Cow.class, 30, 1, 2, EnumCreatureType.CREATURE, biomes);
     	    	
 
     			

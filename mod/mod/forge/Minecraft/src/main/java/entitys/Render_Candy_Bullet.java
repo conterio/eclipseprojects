@@ -41,7 +41,7 @@ public class Render_Candy_Bullet extends Render
 
         float f5 = 32.0F;//size of image
         float f6 = 0.0F;// x cord min
-        float f7 = 1.0F;//this is x cord max (1 size of image i.e 32x32)
+        float f7 = 1.0F;//this is x cord max (value of 1 is size of image whatever f5 is)
         float f8 = 0.0F;// y cord min
         float f9 = 1.0F;//y cord max
         float f10 = 0.02625F;//this is the scale of image in the world

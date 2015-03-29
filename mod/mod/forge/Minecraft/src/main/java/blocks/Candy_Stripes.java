@@ -18,7 +18,7 @@ public class Candy_Stripes extends Block {
 		this.setStepSound(Block.soundTypeSand);
     	GameRegistry.registerBlock(this, "cb");
     	
-    	//GameRegistry.registerWorldGenerator(new Candy_Stripes_Gen(this), 0);
+    	GameRegistry.registerWorldGenerator(new Candy_Stripes_Gen(this), 0);
 	}
 
 }

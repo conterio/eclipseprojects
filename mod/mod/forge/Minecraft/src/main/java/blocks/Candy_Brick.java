@@ -26,10 +26,9 @@ public class Candy_Brick extends BlockCompressed {
 		this.setHardness(5.0F);
 		this.setResistance(10.0F);
 		this.setStepSound(Block.soundTypeGravel);
-		//this.setDefaultState(Blocks.dirt.getDefaultState());
 		GameRegistry.registerBlock(this, "candybrick");
 
-		//GameRegistry.registerWorldGenerator(new Candy_Brick_Gen(this), 0);
+		GameRegistry.registerWorldGenerator(new Candy_Brick_Gen(this), 0);
 
 	}
 	

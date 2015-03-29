@@ -20,7 +20,7 @@ public class Candy_Sand extends BlockFalling {
 		this.setResistance(1.0F);
 		this.setStepSound(Block.soundTypeSand);
 		
-		//GameRegistry.registerWorldGenerator(new Candy_Sand_Gen(this), 0);
+		GameRegistry.registerWorldGenerator(new Candy_Sand_Gen(this), 0);
 	}
 
 }
