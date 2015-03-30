@@ -2,9 +2,15 @@
 ############
 RemoteSystemsTempFiles
 .metadata
+
 mod/*
-mod/*/
-!mod/mod/forge/Minecraft/src/
+!mod/mod
+mod/mod/*
+!mod/mod/forge
+mod/mod/forge/*
+!mod/mod/forge/Minecraft
+mod/mod/forge/Minecraft/*
+!mod/mod/forge/Minecraft/src
 
 
 
