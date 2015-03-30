@@ -1,3 +1,0 @@
-eclipse-java-luna-SR1a-win32
-forge-1.8-11.14.0.1299-src
-jdk1.8.0_31
